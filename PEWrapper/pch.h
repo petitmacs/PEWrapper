@@ -10,5 +10,11 @@
 #define PCH_H
 
 // TODO: ここでプリコンパイルするヘッダーを追加します
+#include <limits.h>
+#include <locale.h>
+#include <iostream>
+#include <stdio.h>
+#include <tchar.h>
+#include <string>
 
 #endif //PCH_H
